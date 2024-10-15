@@ -7,4 +7,4 @@ tags:
 ---
 I participated in the [Conference on Complex Systems 2024](https://ccs24.cssociety.org) (CCS24) held in Exeter from the 2nd to the 6th of September. I also had the opportunity to take part in the warm-up on the campus of my institution (Northeastern University) in London, UK from 30th to the 31th of August.
 
-![CCS Group](/Henrique-Borges/assets/logo.png)
+![CCS Group](/Henrique-Borges/assets/Screenshot 2024-10-15 at 13.45.04.png)
