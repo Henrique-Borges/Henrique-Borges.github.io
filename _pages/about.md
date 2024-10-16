@@ -15,7 +15,7 @@ In my [PhD project](https://www.nulondon.ac.uk/faculty/henrique-borges), I seek 
 
 In parallel, I am actively working as part of [Project CETI](https://www.projectceti.org/about#story). In particular, I am working on a recent dataset on the social dynamics and decision making of a sperm whale clan during the birth of a calf (the first one being recorded live with drone video and acoustic recordings from hydrophones).
 
-Previously, I received the [BSc](https://fenix.tecnico.ulisboa.pt/cursos/left21) and [MSc](https://fenix.tecnico.ulisboa.pt/cursos/meft21) in Physics/Physics Engineering in 2021 and 2023, from [Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/). During my [Master Thesis](https://fenix.tecnico.ulisboa.pt/cursos/meft21/dissertacao/1972678479055565), I focused on studying how social networks affect the dynamical processes underlying the difussion of information, opinions and behaviors. I tried to understand how individual rewiring preferences bridge initially weakly connected communities and how likely it is for them to reach a consensus, in a context of complex information diffusion.
+Previously, I received a [BSc](https://fenix.tecnico.ulisboa.pt/cursos/left21) and [MSc](https://fenix.tecnico.ulisboa.pt/cursos/meft21) in Physics/Physics Engineering in 2021 and 2023, from [Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/). During my [Master Thesis](https://fenix.tecnico.ulisboa.pt/cursos/meft21/dissertacao/1972678479055565), I focused on studying how social networks affect the dynamical processes underlying the difussion of information, opinions and behaviors. I tried to understand how individual rewiring preferences bridge initially weakly connected communities and how likely it is for them to reach a consensus, in a context of complex information diffusion.
 
-If you have any question or idea, do not hesitate to contact me!
+If you have any questions or ideas, do not hesitate to contact me!
 
